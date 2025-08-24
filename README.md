@@ -33,7 +33,7 @@ The official verification letter is distributed as a DOCX/PDF and includes a **Q
 
 ## 📩 Contact
 For professional inquiries, consulting, or speaking engagements:  
-📧 Email: *[6042408533]*  
-🌐 Website: *[Optional link if available]*  
+📧 Email: *[xxx-xxxxx]*  
+🌐 Website: *[ilovemyapple@proton,me]*  
 
 ---
