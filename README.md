@@ -37,5 +37,27 @@ For professional inquiries, consulting, or speaking engagements:
 🌐 Website: *[Optional link if available]*  
 
 ---
+# 👋 Welcome
+
+I’m **Jeff Goldman** — creator of the **Outerlimits™ IQ Test** (Hypergenius Profile · IQ 200–225).  
+My focus: pushing reasoning beyond traditional psychometric ceilings.
+
+---
+
+## 🚀 Outerlimits™ IQ Test
+- 📄 [Download v4.3 (PDF)](https://github.com/<ORG>/outerlimits-iq-test/releases/tag/v4.3)
+- ✅ [Verification & Credentials](https://<ORG>.github.io/outerlimits-iq-test/docs/verification)
+- 🌐 [Project Site](https://<ORG>.github.io/outerlimits-iq-test/)
+
+![QR](https://raw.githubusercontent.com/<ORG>/outerlimits-iq-test/main/docs/assets/qr.png)
+
+---
+
+## 📬 Contact
+- Email: **ilovemyapple@proton.me**
+
+---
+
+> *Outerlimits™ pushes beyond the standard IQ test limits, offering rare discrimination at the extreme high end.*
 
 © 2025 Jeff Goldman – All Rights Reserved
